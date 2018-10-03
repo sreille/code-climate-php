@@ -1,3 +1,5 @@
+<?php
+
 class jo {
 private jo = '2';
 
