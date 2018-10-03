@@ -1,9 +1,9 @@
 <?php
 
-class jo 
-{
-private jo = '2';
+class jo {
+	private jo = '2';
 
-function __construct(jo) {
-	$this->jo = jo;
+	function __construct(jo) {
+		$this->jo = jo;
+	}
 }

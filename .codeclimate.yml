@@ -5,7 +5,7 @@ plugins:
         config:
             file_extensions: "php,inc,lib"
             standard: "PSR1,PSR2"
-            ignore_warnings: true
+            ignore_warnings: false
             encoding: utf-8  
     sonar-php:
         enabled: true
